@@ -1,0 +1,230 @@
+* { margin: 0; padding: 0; box box-sizing: border-box;}
+.navbar{
+    margin-top: 10px;
+}
+.bodystyle{
+    width: 90% ;
+    margin: 0 auto;
+}
+.logostyle{
+    height: 25px;
+   
+}
+.nav-link{
+    color: black;
+}
+carousel-caption{
+    position: ;
+    color: azure;
+}
+.carousel-inner img{
+    width: 100%;
+    height:450;
+}
+.carousel-item {
+    position: relative;
+
+}
+.carousel-caption {
+    position: absolute;
+    top: 200px;
+    left: 45px;
+}
+.carousel-caption h3,p{
+    color: rgb(0, 0, 0);
+    text-align: right;
+}
+.carousel-caption h5{
+    color: black;
+    text-align: left;
+    left: ;
+    f  
+}
+h5.normal{
+    font-weight: normal;
+}
+.carousel-caption button{
+   color: white;
+   background-color: #0067b8;
+ 
+}
+
+button.btn-primary{
+    position: absolute;
+    left: 0;
+}
+
+table{
+    left: 50px;
+    right: 50px;
+    border: none;
+    width: 70%;
+    text-align: center;
+}
+table.center {
+    margin-left: auto; 
+    margin-right: auto;
+  }
+
+td{
+    padding: 10px;
+
+}
+.tablecolor{
+    color: #0067b8;
+    
+}
+.column {
+    float: left;
+    width: 25%;
+    text-align: left;
+    margin-bottom: 16px;
+    padding: 0 10px;
+  }
+  
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0);
+    margin: none;
+    border-color: white;
+    
+  }
+   
+.container {
+    padding: 0 16px;
+    
+  }
+  
+.container::after, .row::after {
+    content: "";
+    clear: both;
+    
+  }
+  
+.title {
+    color: black;
+  
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+  }
+  
+.button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+  }
+  
+.button:hover {
+    background-color: #555;
+}
+.cardtext{
+   font-size: x-large;
+   color: black;
+   font-weight: 600;
+   font-family: inherit;
+   text-align: left;
+   margin-left: 0;
+  }
+
+  .link-group a {
+    display: inline-block;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.cta {
+    position: relative;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: 600;
+}
+
+element.style {
+    background-color: #ffb900;
+}
+.material-surface {
+    background-color: #f2f2f2;
+    color: #000;
+}
+.badge {
+    display: inline-block;
+    padding: 0.375em 0.75em;
+    font-size: 1rem;
+    font-weight: 600;
+    line-height: 1;
+    text-decoration: none;
+    vertical-align: top;
+    max-width: 100%;
+    overflow-wrap: break-word;
+    word-break: break-word;
+}
+
+#myBtn {
+    display: none; /* Hidden by default */
+    position: fixed; /* Fixed/sticky position */
+    bottom: 10px; /* Place the button at the bottom of the page */
+    right: 10px; /* Place the button 30px from the right */
+    z-index: 100; /* Make sure it does not overlap */
+    border: none; /* Remove borders */
+    outline: none; /* Remove outline */
+    background-color: #C8C8C8; /* Set a background color */
+    color: black; /* Text color */
+    cursor: pointer; /* Add a mouse pointer on hover */
+    padding: 15px; /* Some padding */
+ 
+    font-size: 18px; /* Increase font size */
+    font-size: 1rem;
+    line-height: 1;
+   
+}
+  
+  
+#myBtn:hover {
+    background-color: white;
+    box-shadow: 1px 1px #C8C8C8;
+  }
+
+footer{
+    background: #f2f2f2;
+    padding: 40px 0;
+
+  }
+
+.footheading{
+    color: #616161;
+    word-break: break-word;
+    font-weight: 600;
+    font-size: 15px;
+    word-break: break-word;
+}
+.footlist{
+    padding: 8px 0;
+    font-size: 11px;
+    line-height: 16px;
+}
+
+footer a{
+    color: #818181;
+    text-decoration: none;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: black;
+  }
+  
+  
+  .topleft {
+    position: absolute;
+    top: 155px;
+    left: 50px;
+    color: black;
+  }
